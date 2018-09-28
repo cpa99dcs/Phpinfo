@@ -1,8 +1,8 @@
 {
     "name": "cpa99dcs/phpinfo",
-    "description": "Provides PHPInfo functionality for development use",
+    "description": "Provides PHPInfo functionality as a Zend Framework 3 module. Intended for development use",
     "type": "library",
-    "license": "GNU-GPL3",
+    "license": "GPL-3.0-only",
     "keywords": [
         "phpinfo"
     ],
