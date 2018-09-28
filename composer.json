@@ -15,6 +15,7 @@
         }
     ],
     "require": {
+    	"php": ">3"
     },
     "autoload": {
         "psr-0": {
